@@ -25,7 +25,7 @@ This GitHub profile is where we share:
 - 🛒 Website: [earsdecor.com](https://earsdecor.com)  
 - 📸 Instagram: *(https://www.instagram.com/earsdecor)*  
 - 📌 reddit: *(https://www.reddit.com/user/earsdecor/)*  
-- 📧 Email: *hello@earsdecor.com*  
+- 📧 Email: *(hello@earsdecor.com)*  
 
 ---
 
