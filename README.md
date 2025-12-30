@@ -9,7 +9,7 @@ We are **Ears Decor**, a UK-based jewellery brand specialising in
 - ✨ Crafting fine jewellery that blends tradition with modern design.  
 - 💍 Collections include **studs, hoops, drops, halos, and bezel-set earrings**.  
 - 🌍 Offering sustainable and ethical jewellery choices for UK customers.  
-- 🛍️ Explore our store → [earsdecor.com](https://earsdecor.com)  
+- 🛍️ Explore our store → [earsdecor.com].  
 
 ---
 
